@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
-<img aling="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=whmzuI45&id=A64AF9D846512E2CB199D392038833C8CB0AF717&thid=OIP.whmzuI45Eb5-6y8CpUH-lwHaI4&mediaurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fLl22OhMLAlVDb8UQWe%2fsource.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c219b3b88e3911be7eeb2f02a541fe97%3frik%3dF%252fcKy8gziAOS0w%26pid%3dImgRaw%26r%3d0&exph=600&expw=500&q=animated+coding+gif&simid=608048540811491253&FORM=IRPRST&ck=D68ED771E4769056582AB8A416C9457E&selectedIndex=32">
+<img aling="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daarkfight00&label=Profile%20views&color=0e75b6&style=flat" alt="daarkfight00" /> </p>
 
