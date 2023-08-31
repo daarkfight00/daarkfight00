@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/daark_fighter" target="blank"><img src="https://img.shields.io/twitter/follow/daark_fighter?logo=twitter&style=for-the-badge" alt="daark_fighter" /></a> </p>
 
 
-- 🔭 I’m currently working on **search phone number information**
+- 🔭 I’m currently working on **new project**
 
 - 🌱 I’m currently learning **Course and new programm languages**
 
