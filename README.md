@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif)
+[![MasterHead](https://th.bing.com/th/id/R.6e4fed7d08c53dd96d1ccd2c744fa51b?rik=xQEXijiu3W6tLA&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
