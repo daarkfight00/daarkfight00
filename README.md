@@ -1,4 +1,4 @@
-[![MasterHead]([https://th.bing.com/th/id/R.6e4fed7d08c53dd96d1ccd2c744fa51b?rik=xQEXijiu3W6tLA&pid=ImgRaw&r=0](https://miro.medium.com/max/3840/1*J4Lkof6K3jZpKrxVXdy-Iw.jpeg))
+[![MasterHead](https://miro.medium.com/max/3840/1*J4Lkof6K3jZpKrxVXdy-Iw.jpeg)
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
