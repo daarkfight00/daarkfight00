@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
-<img aling image="center" alt="coding" width="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png">
 <h3 align="center">A passionate backend developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daarkfight00&label=Profile%20views&color=0e75b6&style=flat" alt="daarkfight00" /> </p>
