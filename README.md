@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif)
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
