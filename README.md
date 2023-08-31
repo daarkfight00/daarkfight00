@@ -1,4 +1,12 @@
 [![MasterHead](https://th.bing.com/th/id/R.6e4fed7d08c53dd96d1ccd2c744fa51b?rik=xQEXijiu3W6tLA&pid=ImgRaw&r=0)
+	<div align="center">
+		<br><br><br>
+    	<picture>
+    		<source media="(prefers-color-scheme: dark)" srcset="assets/header_dark.svg">
+    		<source media="(prefers-color-scheme: light)" srcset="assets/header_light.svg">
+    		<img alt="" src="assets/header_light.svg">
+    	</picture>
+    </div>
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
