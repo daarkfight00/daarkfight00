@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm daarkfight00</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
+  <h1>Welcome 👋</h1>
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1920px-Flag_of_Russia.svg.png" alt="Russian Flag" width="20" height="20"> Привет (Russia)<br>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" alt="American Flag" width="20" height="20"> Hello (USA)<br>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png" alt="Indian Flag" width="20" height="20"> नमस्ते (India)<br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1920px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="Chinese Flag" width="20" height="20"> 你好 (China)<br>
+  </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daarkfight00&label=Profile%20views&color=0e75b6&style=flat" alt="daarkfight00" /> </p>
 
 <img aling="right" alt="coding" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
