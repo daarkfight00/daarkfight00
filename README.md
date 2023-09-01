@@ -1,30 +1,28 @@
-![MasterHead](https://miro.medium.com/max/3840/1*J4Lkof6K3jZpKrxVXdy-Iw.jpeg)
+![Kali Linux](https://miro.medium.com/max/3840/1*J4Lkof6K3jZpKrxVdy-Iw.jpeg)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+daarkfight00!;" />
 </h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daarkfight00&label=Profile%20views&color=0e75b6&style=flat" alt="daarkfight00" /> </p>
 
-<img aling="right" alt="coding" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daarkfight00" alt="daarkfight00" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/daark_fighter" target="blank"><img src="https://img.shields.io/twitter/follow/daark_fighter?logo=twitter&style=for-the-badge" alt="daark_fighter" /></a> </p>
 
-
 - 🔭 I’m currently working on **new project**
 
-- 🌱 I’m currently learning **Course and new programm languages**
+- 🌱 I’m currently learning **Courses and new programming languages**
 
-- 📫 How to reach me **Contact me on my github profile or on my twitter... Link in bio**
+- 📫 How to reach me **Contact me on my GitHub profile or on my Twitter... Link in bio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daark_fighter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daark_fighter" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cZxBaJ32yk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cZxBaJ32yk" height="30" width="40" /></a>
+<a href="https://discord.gg/cZxBaJ32yk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cZxBaJ32yk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
