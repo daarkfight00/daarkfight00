@@ -34,63 +34,55 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
         <br>React
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
         <br>PHP
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
         <br>Python
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
         <br>HTML
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
         <br>CSS
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
         <br>JavaScript
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
         <br>MySQL
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
         <br>SQLite
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
         <br>Android
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
         <br>Java
       </td>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
         <br>C#
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
         <br>C++
       </td>
@@ -100,7 +92,6 @@
 
 <hr>
 <br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daarkfight00&show_icons=true&locale=en&layout=compact" alt="daarkfight00" /></p>
 
