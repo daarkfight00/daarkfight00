@@ -57,7 +57,7 @@
         <br>CSS
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="55" height="55" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
         <br>JavaScript
       </td>
     </tr>
@@ -93,10 +93,6 @@
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
         <br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="55" height="55" />
-        <br>Bash
       </td>
     </tr>
   </table>
