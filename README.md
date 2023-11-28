@@ -42,10 +42,6 @@
         <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
         <br>PHP
       </td>
-       <td align="center">
-        <img src="http://www.w3.org/2000/svg" width="45" height="45" alt="PHP" />
-        <br>BasH
-      </td> 
       <td align="center">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
         <br>Python
