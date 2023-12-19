@@ -93,6 +93,6 @@
 <hr>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daarkfight00&layout=compact" alt="daarkfight00" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daarkfight00&show_icons=true&locale=en" alt="daarkfight00" /></p>
