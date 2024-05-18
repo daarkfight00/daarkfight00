@@ -86,6 +86,10 @@
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
         <br>C++
       </td>
+        <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+        <br>Linux
+      </td>
     </tr>
   </table>
 </p>
